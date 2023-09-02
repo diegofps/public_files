@@ -12,8 +12,8 @@ This is the Privacy Policy for [Priority Shield](https://play.google.com/store/a
 
 1. Trademarks. This Policy does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
 
-1. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and gossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+1. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 
-1. Maintenance. The app is provided as is, for free, and with no guarantee of maintenance. However, if you find a bug or security issue you would like to report, feel free to send an e-mail to priorityshield@wespa.com.br.
+1. Maintenance. The app is provided as is, for free, and with no guarantee of maintenance. However, if you find a bug or security issue you would like to report, feel free to send an e-mail to the address provided on the app's page, at Google Play.
 
-Diego Souza, Rio de Janeiro, Brasil, April 3rd, 2022
+Diego Souza, Rio de Janeiro, Brazil, September 3nd, 2023
