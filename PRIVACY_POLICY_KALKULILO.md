@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This is the Privacy Policy for Kalkulilo and Kalkulilo Pro, free Android apps available on Google Play. By using this app, you agree to the following statements:
+This is the Privacy Policy for Kalkulilo and Kalkulilo Pli, free Android apps available on Google Play. By using this app, you agree to the following statements:
 
 Data collection. Kalkulilo may collect and store (on your device) data collected from your device's activity to provide its services.
 
